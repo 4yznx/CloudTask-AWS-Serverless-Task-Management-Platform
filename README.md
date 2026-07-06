@@ -1,3 +1,5 @@
+d166kvzst1sp4r.cloudfront.net
+
 # CloudTask
 
 CloudTask is a secure, fully serverless Task Management web application built natively on AWS. This project demonstrates production-ready cloud architectural practices, focusing on managed services, strict identity isolation, and global delivery.
